@@ -1,5 +1,5 @@
-# opencart-config-universal
-Универсальные конфигурационные файлы для OpenCart.
+# OpenCart-Config Universal
+Universal configuration files for OpenCart.
 
-## Ссылки
-- [Ресурс на форуме](https://forum.opencart.name/resources/20/)
+## Links
+- [Forum resource] (https://forum.opencart.name/resources/20/)
